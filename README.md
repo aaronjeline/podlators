@@ -10,7 +10,8 @@ podlators contains Pod::Man and Pod::Text modules which convert POD input
 to *roff source output, suitable for man pages, or plain text.  It also
 includes several subclasses of Pod::Text for formatted output to terminals
 with various capabilities.  It is the source package for the Pod::Man and
-Pod::Text modules included with Perl.
+Pod::Text modules included with Perl.*
+This is a slightly modified package which supports the build api
 
 ## Description
 
