@@ -3,7 +3,7 @@
 
 if [ "$TRAVIS_REPO_SLUG" == "aaronjeline/podlators" ] &&  [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$TRAVIS_BRANCH" == "master" ]; then
   echo -e "Building doc... \n"
-  cd $HOME
+  cd 
   tar czf podlators
   git config --global user.email "travis@travis-ci.org"
   git config --global user.name "travis-ci"
