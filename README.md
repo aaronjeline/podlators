@@ -12,6 +12,7 @@ includes several subclasses of Pod::Text for formatted output to terminals
 with various capabilities.  It is the source package for the Pod::Man and
 Pod::Text modules included with Perl.*
 This is a slightly modified package which supports the build api
+It's really a work in progress and not intended for public use yet
 
 ## Description
 
